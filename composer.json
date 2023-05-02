@@ -1,12 +1,6 @@
 {
-  "name": "Twispay",
+  "name": "sau64inc/twispay",
   "type": "Library",
-  "description": "Sample code",
-  "authors": [
-    {
-      "name": "Dragos Ursu"
-    }
-  ],
   "require": {
     "ext-json": "^1.5"
   },
