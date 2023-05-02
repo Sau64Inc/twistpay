@@ -2,7 +2,7 @@
   "name": "sau64inc/twispay",
   "type": "Library",
   "require": {
-    "ext-json": "^1.5"
+    "ext-json": "*"
   },
   "config": {
     "platform": {
