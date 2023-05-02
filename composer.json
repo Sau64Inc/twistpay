@@ -1,5 +1,6 @@
 {
   "name": "Twispay",
+  "type": "Library",
   "description": "Sample code",
   "authors": [
     {
